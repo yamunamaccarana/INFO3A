@@ -12,7 +12,7 @@ As they are typically academic matters, they investigate arguments treated durin
 
 • [SCALA](https://github.com/yamunamaccarana/INFO3A/tree/master/SCALA_ControlSystem/src) contains an example of the structure of a control system. In particular, it contains the implementation of a PID controller and it can simulate the behaviour of a real system through its model.
 
-For further details on documentation, please [contact me](mailto:yamuna.maccarana@gmail.com).
+For further details on documentation, please [contact me](<a href="mailto:yamuna.maccarana@gmail.com">).
 
 
 This project has been developed in the Department of Engineering of the [University of Bergamo](http://www.unibg.it/struttura/en_struttura.asp?cerca=en_dingind_intro).
